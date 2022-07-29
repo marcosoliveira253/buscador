@@ -3,6 +3,14 @@
 <br>
 <h2>Esse foi um projeto que aprendi no <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc">Sujeito Programador</a></h2>
 
+<img rsc="https://github.com/marcosoliveira253/buscador/blob/master/assets/buscador-de-cep.png?raw=true" />
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
